@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Turkish junior developer, open source developer, researcher and gamer in free time.<br><br>- 🔭 I’m working as Kritm.<br>- 📚 I'm currently learning Python machine learning.<br>- ⚡In my free time, I take care of our server, do research or play games.</p>
+<p align="left">I am a junior developer with a passion for coding and contributing to open-source projects. As a dedicated researcher, I enjoy exploring new technologies and methodologies. In my free time, I am an avid gamer, always on the lookout for the next exciting adventure. Whether it's developing software or engaging in immersive game worlds, I bring enthusiasm and a love for learning to everything I do.</p>
 
 ###
 
