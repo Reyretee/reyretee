@@ -71,15 +71,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus logo"  />
 </div>
 
 ###
