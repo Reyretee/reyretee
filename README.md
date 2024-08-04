@@ -2,14 +2,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I am a junior developer with a passion for coding and contributing to open-source projects. As a dedicated researcher, I enjoy exploring new technologies and methodologies. In my free time, I am an avid gamer, always on the lookout for the next exciting adventure. Whether it's developing software or engaging in immersive game worlds, I bring enthusiasm and a love for learning to everything I do.</p>
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Reyretee.Reyretee&left_color=grey&right_color=darksalmon&left_text=Profile%20Visitors"  />
 </div>
